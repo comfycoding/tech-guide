@@ -19,3 +19,14 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
+
+# benimkiler
+.vscode
+package-lock.json
+.netlify/
+Desktop.ini
+Thumbs.db
+*.tsbuildinfo
+.npm
+.eslintcache
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
