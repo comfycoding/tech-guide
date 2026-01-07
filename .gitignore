@@ -27,3 +27,6 @@ Thumbs.db
 # Build/Dist
 coverage/
 *.tsbuildinfo
+
+# VS Code
+.vscode/
